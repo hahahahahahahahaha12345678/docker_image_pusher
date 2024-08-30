@@ -4,6 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 vulhub/influxdb:1.6.6
 nacos/nacos-server:1.4.0
+nacos/nacos-server:2.0.0
 vulhub/shiro:1.5.1
 vulhub/solr:8.2.0
 nacos/nacos-mysql:5.7
