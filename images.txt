@@ -5,6 +5,7 @@ xhofe/alist:latest
 vulhub/influxdb:1.6.6
 nacos/nacos-server:2.0.0
 vulhub/shiro:1.5.1
+vulhub/shiro:1.2.4
 vulhub/solr:8.2.0
 nacos/nacos-mysql:5.7
 vulhub/struts2:2.5.25
